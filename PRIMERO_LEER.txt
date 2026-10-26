@@ -1,0 +1,20 @@
+TRIPLE DOBLE - LIGA DE BASQUETBOL
+================================
+
+PARA MOSTRARLO EN CHROME:
+1. Descomprime el ZIP.
+2. Entra a la carpeta triple_doble.
+3. Abre index.html con Chrome.
+
+PARA SUBIRLO A GITHUB PAGES:
+1. Copia index.html a la raiz de tu repositorio.
+2. En Visual Studio Code: Commit y Push / Sync Changes.
+3. En GitHub: Settings > Pages > main > /(root).
+4. Entra al enlace que GitHub te muestra en Pages.
+
+NO SUBAS EL ZIP SIN DESCOMPRIMIR.
+NO USES EL NOMBRE DEL ZIP PARA INVENTAR LA URL.
+
+PARA LARAVEL EN XAMPP:
+Lee README.md. Laravel necesita PHP 8.2+, Composer y composer install.
+NO NECESITA MYSQL.
